@@ -15,4 +15,4 @@ remote_write:
   - url: "https://osherlevi7777.grafana.net/api/dashboards/home"
     basic_auth:
       username: "osherlevi7777"
-      password: "eyJrIjoib2VZcmk2YURxRk5tc1VRb1V0R0dBWWp6UTRUWTdQV3kiLCJuIjoiZ3JhZmFuYS1wcm9tZXRodXMiLCJpZCI6MX0"
+      password: ""
